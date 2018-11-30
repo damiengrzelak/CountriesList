@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Countries</string>
+    <string name="country">Country:</string>
+    <string name="currency">Currency:</string>
+    <string name="phone_number_code">Phone number:</string>
+    <string name="internet_domain">Internet domain:</string>
+    <string name="currency_code">Currency code:</string>
+    <string name="currency_symbol">Currency symbol:</string>
+</resources>
